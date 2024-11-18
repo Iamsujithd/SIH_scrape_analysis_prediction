@@ -1,0 +1,239 @@
+PS ID,Organization,S No,Idea ID,Team ID,Team Name,Team Leader Name,AISHE Code,Name of the Institute,City,State,Status
+SIH1728,AICTE,1,14064,23854,Echo_Flex,Patel Dhruv Vasantkumar,C-382,"VISHWAKARMA GOVERNMENT ENGINEERING COLLEGE, CHANDKHEDA,GANDHINAGAR 017",Ahmadabad,Gujarat,SELECTED
+SIH1728,AICTE,2,25718,6864,Code Ciphers,Shreeyansh Mittal,C-32870,Maharaja Agrasen Institute of Technology,West,Delhi,SELECTED
+SIH1728,AICTE,3,46725,41006,tech_titans(),Bigan Kumar,U-0201,"Shri Mata Vaishno Devi University, Jammu",Reasi,Jammu and Kashmir,SELECTED
+SIH1728,AICTE,4,48888,30663,Byte Overload,Prathamesh Mandiye,U-0577,"National Institute of Technology, Durgapur",Purba Bardhaman,West Bengal,SELECTED
+SIH1728,AICTE,5,36606,21675,Updatetopros,Prashant Prakash,C-8753,Darbhanga College of Engineering,Darbhanga,Bihar,SELECTED
+SIH1730,AICTE,1,13506,2718,Neural_Nexus,Sara Nambiar,C-42072,"Pune Institute of Computer Technology, Dhankawadi, Pune 411043",Pune,Maharashtra,SELECTED
+SIH1730,AICTE,2,53748,29958,The hackoholics,Piyush Bisen,U-0092,"National Institute of Technology, Raipur",Raipur,Chhattisgarh,SELECTED
+SIH1730,AICTE,3,50574,9738,The Cache Cows,Samuel Dsouza,C-33981,Fr Conceicao Rodrigues College of Engineering Band Stand Bandra West) Mumbai 400 050,Mumbai Suburban,Maharashtra,SELECTED
+SIH1730,AICTE,4,32813,10425,KarmaCode,Aman Singh Negi,U-0638,GRAPHIC ERA HILL UNIVERSITY,Dehradun,Uttarakhand,SELECTED
+SIH1730,AICTE,5,38450,7164,VedaVerse,Raj Khanke,C-41351,"Bansilal Ramnath Agarwal Charitable Trusts Vishwakarama Institute of Technology, Apper Indiranagar, Pune 411037",Pune,Maharashtra,SELECTED
+SIH1729,AICTE,1,41761,21417,ARTH,Parth Gupta,U-0747,CHANDIGARH UNIVERSITY,S.A.S Nagar,Punjab,SELECTED
+SIH1729,AICTE,2,45439,25397,9Pointers,Mohd Aftaab,U-0747,CHANDIGARH UNIVERSITY,S.A.S Nagar,Punjab,SELECTED
+SIH1729,AICTE,3,39255,21546,KAL HONA CODE,Appari Satya Bargav,U-0020,"Koneru Lakshmaiah Education Foundation,Guntur",Guntur,Andhra Pradesh,SELECTED
+SIH1729,AICTE,4,35213,6141,bit bandit,Mohit Arora,C-32861,Maharaja Surajmal Institute of Technology,West,Delhi,SELECTED
+SIH1729,AICTE,5,45191,26207,Pragati Sankalp,G. Pardha Sai,C-18065,"Ramachandra College of Engineering, NH-5, Bypass Road, Vatluru V), Eluru, PIN- 534007CC-ME)",West Godavari,Andhra Pradesh,SELECTED
+SIH1529,"AICTE, MIC-Student Innovation",1,56441,9428,TURING TITANS,J.Kirthishri,C-69079,PANIMALAR ENGINEERING COLLEGE CHENNAI CITY CAMPUS,Chennai,Tamil Nadu,SELECTED
+SIH1529,"AICTE, MIC-Student Innovation",2,56763,49712,Glaucoma Guardians24,Aagam Jain,C-36003,"Prestige Institute of Engineering Management & Research, Scheme No 74-C. Sector D, Indore - 452010",Indore,Madhya Pradesh,SELECTED
+SIH1529,"AICTE, MIC-Student Innovation",3,55606,47452,smart learner,Shubham Gupta,C-46768,"BUDDHA INSTITUTE OF TECHNOLOGY , GORAKHPUR",Gorakhpur,Uttar Pradesh,SELECTED
+SIH1529,"AICTE, MIC-Student Innovation",4,6389,11602,IoTEnigma_24,J.Prince Raj,C-16572,Sri Venkateswara College of Engineering,Kanchipuram,Tamil Nadu,SELECTED
+SIH1529,"AICTE, MIC-Student Innovation",5,14470,6117,AI Detectors,Achyutha Bhanu Satya Vani,C-17929,"Sasi Institute of Technology & Engineering, Kadakatla, Tadepalligudem, Pin-534101CC-K6)",West Godavari,Andhra Pradesh,SELECTED
+SIH1533,"AICTE, MIC-Student Innovation",1,5129,11129,Vikrant,Arnav Kumar Srivastava,U-0356,"Kalinga Institute of Industrial Technology, Bhubaneswar",Khordha,Odisha,SELECTED
+SIH1533,"AICTE, MIC-Student Innovation",2,34651,16394,*_DRONE_COMMANDERES_*,B.Dhavan,C-16560,Easwari Engineering College,Thiruvallur,Tamil Nadu,SELECTED
+SIH1533,"AICTE, MIC-Student Innovation",3,10648,25301,Team Techno 01,Imrana Thasneem.A.N,C-24986,Kongunadu College of Engineering and Technology,Tiruchirappalli,Tamil Nadu,SELECTED
+SIH1533,"AICTE, MIC-Student Innovation",4,6057,16582,Forge of creations,Jeeva A,C-45291,"M.KUMARASAMY COLLEGE OF ENGINEERING, KARUR",Karur,Tamil Nadu,SELECTED
+SIH1533,"AICTE, MIC-Student Innovation",5,33025,39078,RANDOM,T Adhvik Vithun,U-0460,"Karunya Institute of Technology and Sciences, Coimbatore",Coimbatore,Tamil Nadu,SELECTED
+SIH1594,"AICTE, MIC-Student Innovation",1,21390,34213,Technical Mavde,Prasanna Pal,U-0945,Vellore Institute of Technology - Andhra Pradesh,Guntur,Andhra Pradesh,SELECTED
+SIH1594,"AICTE, MIC-Student Innovation",2,19409,25269,Bitwise Brigade,Harshit Sahu,C-18886,"Shri Ramdeobaba College of Engineering and Management, Nagpur",Nagpur,Maharashtra,SELECTED
+SIH1594,"AICTE, MIC-Student Innovation",3,15844,13449,CSBS TECH TITANS'24,Rumana Nachiyar M,C-49144,RAMCO INSTITUTE OF TECHNOLOGY,Virudhunagar,Tamil Nadu,SELECTED
+SIH1594,"AICTE, MIC-Student Innovation",4,17504,22612,ROUTE RIDERS,Nithin Teja S,C-41124,PSG College of Arts and Science,Coimbatore,Tamil Nadu,SELECTED
+SIH1594,"AICTE, MIC-Student Innovation",5,30039,40707,Raksha 01,Ettedi Ranadeesh,C-19850,Hyderabad Institute of Technology & Management,Rangareddi,Telangana,SELECTED
+SIH1590,"AICTE, MIC-Student Innovation",1,15469,11919,Team IIITA,Naitik Jain,U-0516,"Indian Institute of Information Technology, Allahabad",Prayagraj,Uttar Pradesh,SELECTED
+SIH1590,"AICTE, MIC-Student Innovation",2,27076,37364,FreshConnect_GVTZ,Vishal Vetcha,U-0011,Gandhi Institute of Technology & Management,Visakhapatanam,Andhra Pradesh,SELECTED
+SIH1590,"AICTE, MIC-Student Innovation",3,34428,9707,SafeWay Innovations,Bhushan Suresh Naik,C-33981,Fr Conceicao Rodrigues College of Engineering Band Stand Bandra West) Mumbai 400 050,Mumbai Suburban,Maharashtra,SELECTED
+SIH1590,"AICTE, MIC-Student Innovation",4,38783,44658,Eco Tech Wizard,Debjit Das,S-14559,"GHANI KHAN CHOUDHURY INSTITUTE OF ENGINEERING & TECHNOLOGY, KOTWALI, MALDA",Maldah,West Bengal,SELECTED
+SIH1590,"AICTE, MIC-Student Innovation",5,30314,19448,TEAM IICONICS,Arjit Phogat,U-0544,"Teerthanker Mahaveer University, Moradabad",Moradabad,Uttar Pradesh,SELECTED
+SIH1642,AYUSH,1,6103,19321,Kode Crafts,Kartik,U-0078,"Panjab University,Chandigarh",Chandigarh,Chandigarh,SELECTED
+SIH1642,AYUSH,2,1533,1214,TechWorker's,Sahil Shah,C-33511,"Vidyalankar School of Information Technology, Vidyalankar Educational Campus, Vidyalankar College Marg, Wadala East), Mumbai - 400037",Mumbai,Maharashtra,SELECTED
+SIH1642,AYUSH,3,5491,5057,Code_Slayers,Bhavesh Nitin Burad,C-45895,"SINHGAD TECHNICAL EDUCATION SOCIETYS NBN SINHGAD TECHNICAL INSTITUTES CAMPUS, PUNE",Pune,Maharashtra,SELECTED
+SIH1642,AYUSH,4,7827,8345,Startup Simplifiers,S.Navachaitanya,C-17958,"GMR Institute of Technology GMRIT), GMR Nagar, Rajam, Srikakulam Dt.,-532127 CC-34))",Srikakulam,Andhra Pradesh,SELECTED
+SIH1642,AYUSH,5,786,2951,Dream Stream,D Revanth,C-19593,Geetanjali College of Engineering & Technology,Rangareddi,Telangana,SELECTED
+SIH1642,AYUSH,6,1822,6053,Runtime Terrors -,Yash Raghuwanshi,U-0813,LNCT UNIVERSITY,Bhopal,Madhya Pradesh,SELECTED
+SIH1610,Government of Gujarat,1,39749,37751,Leviosa,Damin Risho J V,C-36926,Kumaraguru college of Technology,Coimbatore,Tamil Nadu,SELECTED
+SIH1610,Government of Gujarat,2,47649,45109,code Crusdors,Hitesh Tiwari,U-0984,D Y PATIL INTERNATIONAL UNIVERSITY,Pune,Maharashtra,SELECTED
+SIH1610,Government of Gujarat,3,46038,42744,Team Inclusivers,Havi Nikunjbhai Jani,C-108,"GOVERNMENT ENGINEERING COLLEGE, MODASA 016",Arvalli,Gujarat,SELECTED
+SIH1610,Government of Gujarat,4,37424,1960,SignFusion,Abhijit Pradhan,U-1071,GANDHI INSTITUTE OF ENGINEERING AND TECHNOLOGY UNIVERSITY,Rayagada,Odisha,SELECTED
+SIH1610,Government of Gujarat,5,36523,30172,Bhasha Setu,Sanket Mane,C-41725,"MAEER's MIT Academy of Engineering, Alandi Devachi), Dehu Phata, Taluka - Khed, District - Pune 412105",Pune,Maharashtra,SELECTED
+SIH1616,Government of NCT of Delhi,1,557,1240,AQISQUAD,Kapil Dhavale,C-33895,Vivekanand Education Societys Institute of Technology,Mumbai Suburban,Maharashtra,SELECTED
+SIH1616,Government of NCT of Delhi,2,4431,10006,TechTonic Innovators,Amaan Hussain,C-36009,"Lakshmi Narain College of Technology & Science, Kalchuri Nagar, Raisen Road, Bhopal-462021",Bhopal,Madhya Pradesh,SELECTED
+SIH1616,Government of NCT of Delhi,3,28932,16947,TECH_DUDES,Tharun E,U-0489,"Vel Tech Rangarajan Dr. Sagunthala R & D Institute of Science & Technology, Chennai",Thiruvallur,Tamil Nadu,SELECTED
+SIH1616,Government of NCT of Delhi,4,33389,37858,Unicorn Hackers,Pranay Pathak,C-35964,"IES s College of Technology, Kalikheda, Ratibad Main Road, Bhopal - 462044",Bhopal,Madhya Pradesh,SELECTED
+SIH1616,Government of NCT of Delhi,5,13714,941,Hardware Express,Pranay Wani,C-33895,Vivekanand Education Societys Institute of Technology,Mumbai Suburban,Maharashtra,SELECTED
+SIH1612,Government of NCT of Delhi,1,36383,29563,NextGenTransit,Aarya Deshpande,C-41681,"International Institute of Information Technology, Pune Infotech Park, Hinjawadi, Pune 411057",Pune,Maharashtra,SELECTED
+SIH1612,Government of NCT of Delhi,2,41600,43394,Byte_knightz,Arohi Santosh Jadhav,U-0885,Ajeenkya D Y Patil University,Pune,Maharashtra,SELECTED
+SIH1612,Government of NCT of Delhi,3,45231,46409,NAVIX.,Dhritikrishna Tripathi,C-61540,University Institute of Technology,Purba Bardhaman,West Bengal,SELECTED
+SIH1612,Government of NCT of Delhi,4,48641,46990,CODE-EX,Hemanta Kumar Khora,C-30148,"Gandhi Engineering College GEC), Bhubaneswar",Khordha,Odisha,SELECTED
+SIH1612,Government of NCT of Delhi,5,51868,31867,HEXA_SENTINALS,Ronit Jaiswal,U-0120,University of Delhi,North,Delhi,SELECTED
+SIH1617,Government of NCT of Delhi,1,8330,8762,ORION-,Hariprasath R,C-36984,Bannari Amman Institute of Technology,Erode,Tamil Nadu,SELECTED
+SIH1617,Government of NCT of Delhi,2,34012,30709,Byte Benders2,Pritam Sarkar,C-6329,"Govt. College of Engineering and Textile Technology, Berhampur 111",Murshidabad,West Bengal,SELECTED
+SIH1617,Government of NCT of Delhi,3,36866,43617,TEAM AIDS,Mohammed Imran K,C-37006,Chettinad College of Engineering & Technology,Karur,Tamil Nadu,SELECTED
+SIH1617,Government of NCT of Delhi,4,20949,24109,CHASING HORIZONS,Ponnuru Venkatesh,C-45100,RGUKT- NUZVID,Eluru,Andhra Pradesh,SELECTED
+SIH1617,Government of NCT of Delhi,5,33435,32920,NOVATHINKERS,Karthick N,C-41049,Hindusthan College of Arts and Science,Coimbatore,Tamil Nadu,SELECTED
+SIH1622,Government of NCT of Delhi,1,31131,34115,ASCENT,Darshna Sharma,C-25254,JODHPUR INSTITUTE OF ENGINEERING & TECHNOLOGY,Jodhpur,Rajasthan,SELECTED
+SIH1622,Government of NCT of Delhi,2,9367,21063,Unique Innovators 2024,S.Afiya,C-26939,"Sri Venkateswar College of Engineering &Technology, RVS Murukambattu, Chittoor",Chittoor,Andhra Pradesh,SELECTED
+SIH1622,Government of NCT of Delhi,3,25896,4457,Digital Dockets,Aadi Bhujbal,C-49660,"PIMPRI CHINCHWAD EDUCATION TRUST'S PIMPRI CHINCHWAD COLLEGE OF ENGINEERING AND RESEARCH, LAXMINAGAR, RAVET",Pune,Maharashtra,SELECTED
+SIH1622,Government of NCT of Delhi,4,40567,5712,TeamASTRA,Rishu Raj,U-0613,National Institute of Technology Manipur,Imphal West,Manipur,SELECTED
+SIH1622,Government of NCT of Delhi,5,14732,30260,The_Optimizers_,B Kumara Siddi Satya Sai Mallik,U-1223,JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY GURAJADA VIZIANAGARAM,Vizianagaram,Andhra Pradesh,SELECTED
+SIH1630,Government of Punjab,1,16392,20515,CareerMent,Dhruv Patel,U-0135,"Gujarat Technological University, Ahmedabad",Ahmadabad,Gujarat,SELECTED
+SIH1630,Government of Punjab,2,22893,16296,ZenCoders11,Henil Patel,C-94,"G.H.PATEL COLLEGE OF ENGG. & TECH. , V. V. NAGAR 011",Anand,Gujarat,SELECTED
+SIH1630,Government of Punjab,3,50053,12929,Connexus,Ritesh Kumar,C-6202,Heritage Institute of Technology 126,24 Paraganas North,West Bengal,SELECTED
+SIH1630,Government of Punjab,4,44558,32992,REBOOTERS_TMSL,Anish Sarkar,C-6133,Techno Main Salt Lake 130,24 Paraganas North,West Bengal,SELECTED
+SIH1630,Government of Punjab,5,366,886,Invictus12,Gokul Srinivasan,C-33861,"SIES Graduate School of Technology Plot No. 1CDE Shri Chandrasekarendra Saraswathy, Sector - 5, Navi Mumbai 40706",Mumbai,Maharashtra,SELECTED
+SIH1631,Government of Rajasthan,1,20287,28734,Arambh_99,Om Panchal,C-41725,"MAEER's MIT Academy of Engineering, Alandi Devachi), Dehu Phata, Taluka - Khed, District - Pune 412105",Pune,Maharashtra,SELECTED
+SIH1631,Government of Rajasthan,2,49037,44469,Chat Crew,Anuja Shankar Lanjewar,C-58531,BAJAJ INSTITUTE OF TECHNOLOGY,Wardha,Maharashtra,SELECTED
+SIH1631,Government of Rajasthan,3,40328,11964,Snack_Overflow,Rayyaan Farhan,C-1331,"M S Ramaiah Institute of Technology, BANGALORE",Bengaluru Urban,Karnataka,SELECTED
+SIH1631,Government of Rajasthan,4,44785,13302,BINARY-BANDITS,Abhirup Banerjee,C-32870,Maharaja Agrasen Institute of Technology,West,Delhi,SELECTED
+SIH1631,Government of Rajasthan,5,44285,26753,cyberpunk,Prachi Yashwant Dafre,C-7592,"S.G.G.S. Inst. of Engineering & Technology, Vishnupuri, Nanded",Nanded,Maharashtra,SELECTED
+SIH1633,Government of Rajasthan,1,3002,7636,underScore,Prince Kumar,C-46805,"BUNDELKHAND INSTITUTE OF ENGINEERING AND TECHNOLOGY, JHANSI",Jhansi,Uttar Pradesh,SELECTED
+SIH1633,Government of Rajasthan,2,5678,15033,43Perceptron,Shubham Karampure,C-33773,Bhartiya Vidya Bhavans Sardar Patel Institute of Technology Munshi Nagar Andheri Mumbai,Mumbai Suburban,Maharashtra,SELECTED
+SIH1633,Government of Rajasthan,3,47527,24293,HEXA TECH,Kankariya Punit Hemkumar,C-15788,"WALCHAND INSTITUTE OF TECHNOLOGY, SOLAPUR",Solapur,Maharashtra,SELECTED
+SIH1633,Government of Rajasthan,4,51532,19654,Confluence Creators,Shreeya Mangesh Maliye,C-34399,"Gramaudyogik Shikshan Mandal's, Maharashtra Institute of Technology, Satara Parisar, Aurangabad.",Aurangabad,Maharashtra,SELECTED
+SIH1633,Government of Rajasthan,5,2592,8367,DEFENDERS-,Mounees Kumar R,C-36984,Bannari Amman Institute of Technology,Erode,Tamil Nadu,SELECTED
+SIH1632,Government of Rajasthan,1,31203,23786,Opportunity Optimizers,Siba Prasad Sahu,C-30132,"National Institute of Science and Technology NIST), Berhampur",Ganjam,Odisha,SELECTED
+SIH1632,Government of Rajasthan,2,37055,42490,PlaceX,Yashita Bansal,U-0080,"Punjab Engineering College , Chandigarh",Chandigarh,Chandigarh,SELECTED
+SIH1632,Government of Rajasthan,3,28488,30024,The X Force,Harshvardhan Sharma,C-25158,"Poornima Institute of Engineering & Technology,Jaipur",Jaipur,Rajasthan,SELECTED
+SIH1632,Government of Rajasthan,4,32471,38683,DD6148,Chropton Unsh Cyril Babu,C-61983,Rajkiya Engineering College Sonbhadra,Sonbhadra,Uttar Pradesh,SELECTED
+SIH1632,Government of Rajasthan,5,28071,31523,Titans Mx,Satyam Pandey,C-49297,"INSTITUTE OF TECHNOLOGY & MANAGEMENT,GORAKHPUR",Gorakhpur,Uttar Pradesh,SELECTED
+SIH1741,Indian Space Research Organization (ISRO),1,10246,23550,Team Celestial's,Ananya Patel,C-35992,"Shri Ram Institute of Technology, ITI, Madhotal, Jabalpur-482002",Jabalpur,Madhya Pradesh,SELECTED
+SIH1741,Indian Space Research Organization (ISRO),2,25207,19363,we’ll think about it,Palash Chitnavis,U-0267,"Atal Bihari Vajpayee Indian Institute of Information Technology and Management, Gwalior",Gwalior,Madhya Pradesh,SELECTED
+SIH1741,Indian Space Research Organization (ISRO),3,55204,9767,Vaidhanik,Abhinav Prakash,U-0573,"Indian Institute of Technology, Kharagpur",Medinipur West,West Bengal,SELECTED
+SIH1741,Indian Space Research Organization (ISRO),4,46301,14744,Team_Vajra,Shiwans Trivedi,U-0953,INDIAN INSTITUTE OF INFORMATION TECHNOLOGY BHAGALPUR,Bhagalpur,Bihar,SELECTED
+SIH1741,Indian Space Research Organization (ISRO),5,46764,13276,Virtuous_RIT,H M Navneet,C-1331,"M S Ramaiah Institute of Technology, BANGALORE",Bengaluru Urban,Karnataka,SELECTED
+SIH1734,Indian Space Research Organization (ISRO),1,39391,43397,Tesseract_50,Shaik Zia Ur Rehaman,1-3694796951,SRM INSTITUTE OF SCIENCE AND TECHNOLOGY RAMAPURAM,CHENNAI,TAMIL NADU,SELECTED
+SIH1734,Indian Space Research Organization (ISRO),2,38431,10652,6 WATTS,Lokesh P,U-0459,"Karpagam Academy of Higher Education, Coimbatore",Coimbatore,Tamil Nadu,SELECTED
+SIH1734,Indian Space Research Organization (ISRO),3,34383,9761,NO2Sense,Vinisha Rajpurkar,C-33981,Fr Conceicao Rodrigues College of Engineering Band Stand Bandra West) Mumbai 400 050,Mumbai Suburban,Maharashtra,SELECTED
+SIH1734,Indian Space Research Organization (ISRO),4,47975,32176,Siriius,Rangavajjula Krishna Advaith Siddhartha,C-25615,MVSR Engineering College,Rangareddi,Telangana,SELECTED
+SIH1734,Indian Space Research Organization (ISRO),5,25883,24812,Astro Pixels26,Iqbal Ansari,U-1219,IILM UNIVERSITY,Gautam Buddha Nagar,Uttar Pradesh,SELECTED
+SIH1739,Indian Space Research Organization (ISRO),1,45667,346,TechDecks,Keerthana Mg,C-16626,Rajalakshmi Engineering College,Kanchipuram,Tamil Nadu,SELECTED
+SIH1739,Indian Space Research Organization (ISRO),2,57245,49820,Tech Normies,Arham D Jain,U-0749,"MANIPAL UNIVERSITY, JAIPUR",Jaipur,Rajasthan,SELECTED
+SIH1739,Indian Space Research Organization (ISRO),3,37690,7241,ROOKIES VISION,Mugesh S,C-37065,Kongu Engineering College,Erode,Tamil Nadu,SELECTED
+SIH1739,Indian Space Research Organization (ISRO),4,9436,13304,BlueSentinel,Eeshu,C-46109,"AJAY KUMAR GARG ENGINEERING COLLEGE, GHAZIABAD",Ghaziabad,Uttar Pradesh,SELECTED
+SIH1739,Indian Space Research Organization (ISRO),5,39893,38824,TerraLumin,Soumyadip Das,U-0855,"NATIONAL INSTITUTE OF TECHNOLOGY, ANDHRA PRADESH",West Godavari,Andhra Pradesh,SELECTED
+SIH1737,Indian Space Research Organization (ISRO),1,48438,37629,Signal Seekers,Vignesh S,C-36926,Kumaraguru college of Technology,Coimbatore,Tamil Nadu,SELECTED
+SIH1737,Indian Space Research Organization (ISRO),2,7805,6983,AI-SQUAD,Jasjeev Singh Kohli,C-32870,Maharaja Agrasen Institute of Technology,West,Delhi,SELECTED
+SIH1737,Indian Space Research Organization (ISRO),3,55485,29715,STUCKED_IN_TLE,Prachi Srivastav,C-46385,"RAJ KUMAR GOEL INSTITUTE OF TECHNOLOGY, GHAZIABAD",Ghaziabad,Uttar Pradesh,SELECTED
+SIH1786,Madhya Pradesh Police,1,41550,40556,TECHTONIC DEVS,K S Prateek,C-1352,"Nitte Meenakshi Institute of Technology, BANGALORE",Bengaluru Urban,Karnataka,SELECTED
+SIH1786,Madhya Pradesh Police,2,42075,39811,Tech_Veda,Shreya Singhal,U-0685,INDIRA GANDHI DELHI TECHNICAL UNIVERSITY FOR WOMEN,Central,Delhi,SELECTED
+SIH1786,Madhya Pradesh Police,3,41245,46328,AIkyam.,Devojyoti Misra,C-61540,University Institute of Technology,Purba Bardhaman,West Bengal,SELECTED
+SIH1786,Madhya Pradesh Police,4,44229,35191,Code-A-Cola_TMSL,Anish Seth,C-6133,Techno Main Salt Lake 130,24 Paraganas North,West Bengal,SELECTED
+SIH1786,Madhya Pradesh Police,5,41110,10041,Farm to Future,Shivam Jhawar,C-36143,"Shri G. S. Institute of Technology & Science, 23,Park Road, Indore - 452003",Indore,Madhya Pradesh,SELECTED
+SIH1789,Madhya Pradesh Police,1,38131,39780,405_Resolved,Bhoomi Agrawal,C-1413,"Dayananda Sagar College of Engineering, BANGALORE",Bengaluru Urban,Karnataka,SELECTED
+SIH1789,Madhya Pradesh Police,2,44489,17012,VR Voyagers,Suthar Ved Mehulkumar,U-0147,"PANDIT DEENDAYAL ENERGY UNIVERSITY, GANDHI NAGAR",Gandhinagar,Gujarat,SELECTED
+SIH1789,Madhya Pradesh Police,3,35638,37111,Botanical_Bytes,Arnav Prasad,U-1257,COEP Technological University,Pune,Maharashtra,SELECTED
+SIH1789,Madhya Pradesh Police,4,36562,33912,API-Fetched,Vahora Mohammad Sauban Irfan,U-0775,GLS UNIVERSITY,Ahmadabad,Gujarat,SELECTED
+SIH1789,Madhya Pradesh Police,5,43032,43075,Nu1lPtr,Sanya Kumari,U-0741,JECRC UNIVERSITY,Jaipur,Rajasthan,SELECTED
+SIH1637,Ministry of Agriculture and Farmers Welfare,1,4201,14453,FARMLY_VIT,Raazi Faisal Mohiddin,C-49441,"VELLORE INSTITUTE OF TECHNOLOGY, CHENNAI",Kanchipuram,Tamil Nadu,SELECTED
+SIH1637,Ministry of Agriculture and Farmers Welfare,2,4060,3379,Tech-Rex,Asif Khan,U-0813,LNCT UNIVERSITY,Bhopal,Madhya Pradesh,SELECTED
+SIH1637,Ministry of Agriculture and Farmers Welfare,3,580,2403,DEVHEX : Where code meet Innovation,Swastika Chakroborty,C-6242,Future Institute of Engineering and Management 148,24 Paraganas South,West Bengal,SELECTED
+SIH1637,Ministry of Agriculture and Farmers Welfare,4,4461,6282,The Cultivators,Bhanu Shakya,U-0752,POORNIMA UNIVERSITY,Jaipur,Rajasthan,SELECTED
+SIH1637,Ministry of Agriculture and Farmers Welfare,5,7761,3267,Team AMEYA,Mohammed Imran,C-61436,COLLEGE OF TECHNOLOGY AND ENGINEERING,Udaipur,Rajasthan,SELECTED
+SIH1637,Ministry of Agriculture and Farmers Welfare,6,10558,7439,FarmConnect,Nihanshu Soni,C-14055,School of Pharmacy & Technology Management and Mukesh Patel School of Technology Management and Engineering- Shirpur Campus,Dhule,Maharashtra,SELECTED
+SIH1650,Ministry of Defence,1,12210,7709,CodeGladiators_JA,Jiya Acharya,U-1102,LOK JAGRUTI KENDRA UNIVERSITY,Ahmadabad,Gujarat,SELECTED
+SIH1650,Ministry of Defence,2,36305,14483,Echoes of Lhonak,Toshik Soni,U-0426,"Sir Padampat Singhania University, Udaipur",Udaipur,Rajasthan,SELECTED
+SIH1650,Ministry of Defence,3,2061,7917,TEAM SLYTHERIN-,Gayathri M,C-36984,Bannari Amman Institute of Technology,Erode,Tamil Nadu,SELECTED
+SIH1650,Ministry of Defence,4,36298,20745,GLOFzilla,Abhijit Rai,C-42054,"Army Institute of Technology, Dighi Hills, Pune",Pune,Maharashtra,SELECTED
+SIH1650,Ministry of Defence,5,1044,4846,HIMASHIELD,Chinmay Satish Kumbhar,C-41227,"All India Shivaji Memorial Societys College of Engineering, Pune",Pune,Maharashtra,SELECTED
+SIH1658,Ministry of Earth Sciences,1,9587,21274,SAKSHAM!,Vishal Srinivasan,U-0770,"INDIAN INSTITUTE OF INFORMATION TECHNOLOGY, SENAPATI",Senapati,Manipur,SELECTED
+SIH1658,Ministry of Earth Sciences,2,11698,20388,Hello_World_LT,Lata,U-0267,"Atal Bihari Vajpayee Indian Institute of Information Technology and Management, Gwalior",Gwalior,Madhya Pradesh,SELECTED
+SIH1658,Ministry of Earth Sciences,3,11122,21174,Believers.,Karmvirsinh Indrajitsinh Jadeja,C-270,"S.P.B. PATEL ENGG. COLLEGESAFFRONY), LINCH, MAHESHANA 039",Mahesana,Gujarat,SELECTED
+SIH1658,Ministry of Earth Sciences,4,26267,37170,Ishwari Sangle,Ishwari Sangle,C-41256,"K.K.Wagh Education Society's K.K.Wagh Institute of Engineering Education & Research, Hirabai Haribai Vidyanagari, Panchavati, Nashik 422003",Nashik,Maharashtra,SELECTED
+SIH1658,Ministry of Earth Sciences,5,39829,1997,METIER,Swarup Kumar Rath,U-1071,GANDHI INSTITUTE OF ENGINEERING AND TECHNOLOGY UNIVERSITY,Rayagada,Odisha,SELECTED
+SIH1666,Ministry of Education,1,4602,12785,Surf Excel,Aahan Shetye,U-1085,SOMAIYA VIDYAVIHAR UNIVERSITY,Mumbai,Maharashtra,SELECTED
+SIH1666,Ministry of Education,2,26661,35676,Atisha,Hiya Gurbani,C-25158,"Poornima Institute of Engineering & Technology,Jaipur",Jaipur,Rajasthan,SELECTED
+SIH1666,Ministry of Education,3,24262,33828,TECH SPARTANSS,Harihara Sudhan T,C-37032,Sri Ramakrishna Institute of Technology,Coimbatore,Tamil Nadu,SELECTED
+SIH1666,Ministry of Education,4,47601,45326,ABES_INNOSQUAD,Nandini,C-46112,"ABES ENGINEERING COLLEGE, GHAZIABAD",Ghaziabad,Uttar Pradesh,SELECTED
+SIH1666,Ministry of Education,5,46416,30770,CLARITY_BITS,Mahir Abidi,U-0391,"Birla Institute of Technology & Sciences, Pilani",Jhunjhunu,Rajasthan,SELECTED
+SIH1669,Ministry of Electronics and Information Technology,1,49666,1373,DODS,Aryan Rajpurkar,C-33777,Shri Vile Parle Kelavani Mandals Dwarkadas J. Sanghvi College of Engineering Plot No U-15 J V P D Scheme Gulmohar Road Vile Parle West) Mumbai 400 056,Mumbai Suburban,Maharashtra,SELECTED
+SIH1669,Ministry of Electronics and Information Technology,2,16958,9159,TRATOS,Shiva Subhan S,C-27058,Mepco Schlenk Engineering College,Virudhunagar,Tamil Nadu,SELECTED
+SIH1669,Ministry of Electronics and Information Technology,3,46964,39988,Spammers,Pathikreet Chowdhury,U-0535,"Rajiv Gandhi Institute of Petroleum Technology, Amethi",Amethi,Uttar Pradesh,SELECTED
+SIH1669,Ministry of Electronics and Information Technology,4,53496,9702,Code_Blooded,Sai Pawar,C-33981,Fr Conceicao Rodrigues College of Engineering Band Stand Bandra West) Mumbai 400 050,Mumbai Suburban,Maharashtra,SELECTED
+SIH1669,Ministry of Electronics and Information Technology,5,43647,19022,Matrix@9,Ayushi Mishra,U-0078,"Panjab University,Chandigarh",Chandigarh,Chandigarh,SELECTED
+SIH1583,Ministry of Housing and Urban Affairs,1,19131,12286,Team VoltAces,Abhishek Duharia,U-0189,"National Institute of Technology, Hamirpur",Hamirpur,Himachal Pradesh,SELECTED
+SIH1583,Ministry of Housing and Urban Affairs,2,16352,18114,VentraGuard AI,Preet Shah,C-57,"SARVAJANIK COLLEGE OF ENGG. & TECH. , SURAT 042",Surat,Gujarat,SELECTED
+SIH1583,Ministry of Housing and Urban Affairs,3,2349,9269,KARASUNO,Aravinthan M R,C-16485,Prathyusha Engineering College,Thiruvallur,Tamil Nadu,SELECTED
+SIH1583,Ministry of Housing and Urban Affairs,4,4643,6051,Team Soul,Rajeev Mandle,C-16658,Bhilai Institute of Technology Durg,Durg,Chhattisgarh,SELECTED
+SIH1583,Ministry of Housing and Urban Affairs,5,9321,16375,PRIMEHEX,T.Hemachandiran,C-16614,R.M.K Engineering College,Thiruvallur,Tamil Nadu,SELECTED
+SIH1585,Ministry of Housing and Urban Affairs,1,12654,25468,MAGNATO,Subhalakshmi T.V,C-36974,Institute of Road and Transport Technology,Erode,Tamil Nadu,SELECTED
+SIH1585,Ministry of Housing and Urban Affairs,2,19399,3744,MagnoMinds,Dikshit Maloo,C-61436,COLLEGE OF TECHNOLOGY AND ENGINEERING,Udaipur,Rajasthan,SELECTED
+SIH1585,Ministry of Housing and Urban Affairs,3,9135,18626,Mavericks_NIE,K Chandrakanth,C-1263,"National Institute of Engineering, MYSORE",Mysuru,Karnataka,SELECTED
+SIH1585,Ministry of Housing and Urban Affairs,4,10140,22675,TITANS 02,Abisheik T,C-24986,Kongunadu College of Engineering and Technology,Tiruchirappalli,Tamil Nadu,SELECTED
+SIH1585,Ministry of Housing and Urban Affairs,5,28021,39567,HardWired01,Amogh S Purohith,C-1413,"Dayananda Sagar College of Engineering, BANGALORE",Bengaluru Urban,Karnataka,SELECTED
+SIH1725,Ministry of Housing and Urban Affairs,1,53696,10841,ClearRouteAI69,Amaan Kasu,C-33588,Vidyalankar Institute of Technology Pearl Center Senapati Bapat Marg Dadar West) Mumbai 400 028,Mumbai,Maharashtra,SELECTED
+SIH1725,Ministry of Housing and Urban Affairs,2,54604,24490,Fnatic11,Mohammed Zaid Ali Khan,C-25464,Muffakham Jah College of Engineering & Technology,Hyderabad,Telangana,SELECTED
+SIH1725,Ministry of Housing and Urban Affairs,3,53775,20735,Win9dev,Apoorva Singh,U-0770,"INDIAN INSTITUTE OF INFORMATION TECHNOLOGY, SENAPATI",Senapati,Manipur,SELECTED
+SIH1725,Ministry of Housing and Urban Affairs,4,16513,387,AANYA,Sabhya Lokhande,C-41755,"Dr. D.Y.Patil Institute of Engineering, Management and Research, Sector no 29, PCNTDA Ravet), Akurdi, Pune 411044",Pune,Maharashtra,SELECTED
+SIH1726,Ministry of Housing and Urban Affairs,1,47288,1374,CodeZ,Mishree Sanura,C-33777,Shri Vile Parle Kelavani Mandals Dwarkadas J. Sanghvi College of Engineering Plot No U-15 J V P D Scheme Gulmohar Road Vile Parle West) Mumbai 400 056,Mumbai Suburban,Maharashtra,SELECTED
+SIH1726,Ministry of Housing and Urban Affairs,2,10432,13595,SPY_FAMILY,Tushar,C-46109,"AJAY KUMAR GARG ENGINEERING COLLEGE, GHAZIABAD",Ghaziabad,Uttar Pradesh,SELECTED
+SIH1726,Ministry of Housing and Urban Affairs,3,40402,16730,Brainstormers_1,Rakhesh Krishna P,C-16560,Easwari Engineering College,Thiruvallur,Tamil Nadu,SELECTED
+SIH1726,Ministry of Housing and Urban Affairs,4,43623,17640,HexaInnovators,Chandaluri Mohit,C-18075,"PRASAD V POTLURI SIDDHARTHA INSTITUTE OF TECHNOLOGY, Devabhaktuni Ramalingeswara Rao Road, Behind VR Siddhartha Engg. College, Kanuru, Vijayawada, PIN-520007CC-50)",Krishna,Andhra Pradesh,SELECTED
+SIH1726,Ministry of Housing and Urban Affairs,5,44926,13730,ARTech,Akshata Bagul,C-34118,"Watumull Institute of Electronic Engineering and Computer Technology, Plot No. 157, C.H.M. Campus, Opposite Ulhasnager Railway Station, Ulhasnagar - 421003",Thane,Maharashtra,SELECTED
+SIH1582,Ministry of Housing and Urban Affairs,1,5317,621,THE OLYAMPIANS,Aesha Suthar,C-25123,"Swami Keshvanand Institute of Technology, Management & Gramothan",Jaipur,Rajasthan,SELECTED
+SIH1582,Ministry of Housing and Urban Affairs,2,6875,12676,Paradox Innovator,Ranjan Kumar Gupta,C-6202,Heritage Institute of Technology 126,24 Paraganas North,West Bengal,SELECTED
+SIH1582,Ministry of Housing and Urban Affairs,3,8998,17061,Safety Builders,Aryan Rayani,C-212,"L.D.COLLEGE OF ENGINEERING, AHMEDABAD 028",Ahmadabad,Gujarat,SELECTED
+SIH1582,Ministry of Housing and Urban Affairs,4,30475,17522,Vicharah,Sachin Krishna G,C-36995,Sri Krishna College of Engineering and Technology,Coimbatore,Tamil Nadu,SELECTED
+SIH1582,Ministry of Housing and Urban Affairs,5,54695,27054,Robogyan,Vidhi Gupta,C-32842,Dr. Akhilesh Das Gupta Institute of Technology & Management,East,Delhi,SELECTED
+SIH1691,Ministry of Jal Shakti,1,41678,10799,Elite Group 2.0,Shivam Pradeep Chavan,C-11099,"Annasaheb Dange College of Engineering and Technology, ASHTA",Sangli,Maharashtra,SELECTED
+SIH1691,Ministry of Jal Shakti,2,56613,49460,Team Chakravyuh123,Aaditya Thakur,U-0385,"Thapar Institute of Engineering and Technology, Patiala",Patiala,Punjab,SELECTED
+SIH1691,Ministry of Jal Shakti,3,15526,14157,Data_EVO,Bhumija Pandey,U-0757,"AMITY UNIVERSITY, RAIPUR",Raipur,Chhattisgarh,SELECTED
+SIH1691,Ministry of Jal Shakti,4,32485,4163,Astra Codifiers,Pranjali Vinod Thawri,C-41227,"All India Shivaji Memorial Societys College of Engineering, Pune",Pune,Maharashtra,SELECTED
+SIH1691,Ministry of Jal Shakti,5,44943,43359,NetNinjas,Nayan Vijay Pawar,C-58821,"Shri Vile Parle Kelvani Mandals Institute of Technology, Dhule",Dhule,Maharashtra,SELECTED
+SIH1771,Ministry of Jal Shakti,1,5277,9258,FRESHGUARDS,Akileswar P A,C-27058,Mepco Schlenk Engineering College,Virudhunagar,Tamil Nadu,SELECTED
+SIH1771,Ministry of Jal Shakti,2,14605,27813,VAAGAI KOLLVOM,Madhavan K,C-36974,Institute of Road and Transport Technology,Erode,Tamil Nadu,SELECTED
+SIH1771,Ministry of Jal Shakti,3,2153,4113,Tech+,Sharon Lanvy Sequeira,C-1277,ST JOSEPH ENGINEERING COLLEGE,Dakshin Kannad,Karnataka,SELECTED
+SIH1771,Ministry of Jal Shakti,4,36418,20212,Sense CL2,Ejner Sneh,U-0135,"Gujarat Technological University, Ahmedabad",Ahmadabad,Gujarat,SELECTED
+SIH1698,Ministry of Jal Shakti,1,2187,288,TechTonic,Muskan Bombeshwar,C-16658,Bhilai Institute of Technology Durg,Durg,Chhattisgarh,SELECTED
+SIH1698,Ministry of Jal Shakti,2,8180,10935,C0deCr4ft,Atharva Aurangabadkar,C-33588,Vidyalankar Institute of Technology Pearl Center Senapati Bapat Marg Dadar West) Mumbai 400 028,Mumbai,Maharashtra,SELECTED
+SIH1698,Ministry of Jal Shakti,3,26544,34622,TECHTONIC_MVGR,Piyush Bokaria,C-18054,"Maharaj Vijayaram Gajapathi Raj College of Engineering, Chintalavalasa, Vizianagaram-535005 CC-33)",Vizianagaram,Andhra Pradesh,SELECTED
+SIH1698,Ministry of Jal Shakti,4,52877,36063,World War W,Siya Rath,C-7252,"Manipal Institute of Technology, Manipal",Udupi,Karnataka,SELECTED
+SIH1698,Ministry of Jal Shakti,5,3464,5284,Hydro warriors,Suthiksha. A .I,C-24992,A.V.C. College of Engineering,Mayiladuthurai,Tamil Nadu,SELECTED
+SIH1698,Ministry of Jal Shakti,6,34571,18043,Journey Maker's,Nandgaonkar Virag Sanjay,C-15788,"WALCHAND INSTITUTE OF TECHNOLOGY, SOLAPUR",Solapur,Maharashtra,SELECTED
+SIH1698,Ministry of Jal Shakti,7,37786,39660,InVi,Tanishq Abhishek,U-0986,SARALA BIRLA UNIVERSITY,Ranchi,Jharkhand,SELECTED
+SIH1689,Ministry of Jal Shakti,1,23006,19102,Venkateshwar,Akshat Gupta,U-0514,"Gautam Buddha University, Greater Noida, Gautam Budh Nagar",Gautam Buddha Nagar,Uttar Pradesh,SELECTED
+SIH1689,Ministry of Jal Shakti,2,26132,14861,AgroBuddies,Ujjwal Aggarwal,C-28457,"Dronacharya College of Engg. Farukh Nagar, Gurgaon",Gurugram,Haryana,SELECTED
+SIH1689,Ministry of Jal Shakti,3,50570,34013,Oppenhomies,Shreyashi Nilay,C-49311,"INSTITUTE OF ENGINEERING & TECHNOLOGY,LUCKNOW",Lucknow,Uttar Pradesh,SELECTED
+SIH1689,Ministry of Jal Shakti,4,31772,738,Drop Squad,Akanksha Ravindra Bhagat,C-34225,"Shivajirao S. Jondhale College of Engineering, Sonarpada, Dombivli East) Dist: Thane",Thane,Maharashtra,SELECTED
+SIH1689,Ministry of Jal Shakti,5,14353,11007,The Cache Crew,Sneha Mishra,C-6166,Gurunanak Institute of Technology 143,24 Paraganas North,West Bengal,SELECTED
+SIH1577,Ministry of Power,1,50525,45242,Co-Elex,Milind Sen,U-0092,"National Institute of Technology, Raipur",Raipur,Chhattisgarh,SELECTED
+SIH1577,Ministry of Power,2,53359,31956,CAPTEM_2024,Aryan Gupta,U-0306,"Indian Institute of Technology, Mumbai",Mumbai,Maharashtra,SELECTED
+SIH1577,Ministry of Power,3,24597,14878,Alchemists,Soham Paranjpe,U-0938,Dr. Vishwanath Karad MIT World Peace University,Pune,Maharashtra,SELECTED
+SIH1577,Ministry of Power,4,57224,49886,Maverick-915,Aditya Chakraborty,C-33641,Veermata Jijabai Technological Institute Matunga Mumbai 400 019,Mumbai,Maharashtra,SELECTED
+SIH1577,Ministry of Power,5,51438,46959,Catalyst New,G. Shobana,U-0435,"Alagappa University, Alagappa Nagar, Karaikudi",Sivaganga,Tamil Nadu,SELECTED
+SIH1572,Ministry of Power,1,49648,40861,MECH MONSTERS,M.Venkata Harshith.,C-17942,"NRI Institute of Technology, Pothavarappadu V), Agiripalli M), Vijayawada Rural, PIN-821212CC-KN)",Krishna,Andhra Pradesh,SELECTED
+SIH1572,Ministry of Power,2,54366,44804,ASIN,Bs. Valli Arunachalam,U-0435,"Alagappa University, Alagappa Nagar, Karaikudi",Sivaganga,Tamil Nadu,SELECTED
+SIH1572,Ministry of Power,3,45850,44287,AG B.TECH VFSTR,Uppu Omshri,U-0043,"Vignan's Foundation of Science, Technology & Research, Guntur",Guntur,Andhra Pradesh,SELECTED
+SIH1572,Ministry of Power,4,51486,48477,watts wizard,C Dinesh Boopathy,C-16473,Global Institute of Engineering and Technology,Ranipet,Tamil Nadu,SELECTED
+SIH1572,Ministry of Power,5,54223,48523,Energist,C Bala Chandar,C-16473,Global Institute of Engineering and Technology,Ranipet,Tamil Nadu,SELECTED
+SIH1572,Ministry of Power,6,55770,49169,Robogeeks,Shubham,U-0643,GALGOTIAS UNIVERSITY,Gautam Buddha Nagar,Uttar Pradesh,SELECTED
+SIH1710,Ministry of Railway,1,4329,1483,LDI Hackos,Sriram R S,C-16576,Chennai Institute of Technology,Kanchipuram,Tamil Nadu,SELECTED
+SIH1710,Ministry of Railway,2,2163,2862,TEAM TECHFORGE,Choudhary Ayyan,C-19711,VIGNANA BHARATHI ENGINEERING COLLEGE,Rangareddi,Telangana,SELECTED
+SIH1710,Ministry of Railway,3,35379,30428,Pravaah_29,Maitreyee Majumdar,C-41725,"MAEER's MIT Academy of Engineering, Alandi Devachi), Dehu Phata, Taluka - Khed, District - Pune 412105",Pune,Maharashtra,SELECTED
+SIH1710,Ministry of Railway,4,35616,25170,Team_Firefox,Shaurya Namdeo,U-0270,"Devi Ahilya Vishwavidyalaya, Indore",Indore,Madhya Pradesh,SELECTED
+SIH1710,Ministry of Railway,5,878,3073,Binary Bandits24,Pranav Deshpande,U-0321,"Padmashree Dr. D. Y. Patil Vidyapeeth, , Mumbai",Thane,Maharashtra,SELECTED
+SIH1716,Ministry of Social Justice and Empowerment,1,39053,24360,Spartone,Dhruv Singh,U-0497,"Amity University, Uttar Pradesh",Gautam Buddha Nagar,Uttar Pradesh,SELECTED
+SIH1716,Ministry of Social Justice and Empowerment,2,30018,8682,Philosia,Ujjwal Seth,C-36237,"Acropolis Institute of Technology & Research, Village Raukhedi, Khasra No. 1443, Indore Bypass Road, Indore-453771",Indore,Madhya Pradesh,SELECTED
+SIH1716,Ministry of Social Justice and Empowerment,3,35965,618,INNOVATE A’S,Anirudh Singh Naruka,C-25123,"Swami Keshvanand Institute of Technology, Management & Gramothan",Jaipur,Rajasthan,SELECTED
+SIH1716,Ministry of Social Justice and Empowerment,4,30472,8916,TheTech Titans,Dev Kamalkumar Shah,U-0763,PARUL UNIVERSITY,Vadodara,Gujarat,SELECTED
+SIH1716,Ministry of Social Justice and Empowerment,5,36155,41911,SignInterpreter,Jay Thepe,C-36315,"Vikrant Institute of Technology and Management, Borkhedi, Behind Veterinary College, AB Road, Indore- 453446",Indore,Madhya Pradesh,SELECTED
+SIH1719,Ministry of Social Justice and Empowerment,1,8048,21729,Pixel Titans,Md Tabish,C-6469,"Siwan Engineering & Technical Institute, Siwan",Siwan,Bihar,SELECTED
+SIH1719,Ministry of Social Justice and Empowerment,2,12382,28574,Hasila,B.Lohitha,C-17899,"Andhra Loyola Institute of Engineering & Technology, Polytechnic Post Office, Loyola Campus,Vijayawada, PIN-520008. CC-HP)",Krishna,Andhra Pradesh,SELECTED
+SIH1719,Ministry of Social Justice and Empowerment,3,27901,38685,TechSpectra,Harish Lukare,C-41256,"K.K.Wagh Education Society's K.K.Wagh Institute of Engineering Education & Research, Hirabai Haribai Vidyanagari, Panchavati, Nashik 422003",Nashik,Maharashtra,SELECTED
+SIH1719,Ministry of Social Justice and Empowerment,4,17591,7271,Poriyaalargal_07,Aiswariya S,C-36989,KGiSL Institute of Technology,Coimbatore,Tamil Nadu,SELECTED
+SIH1719,Ministry of Social Justice and Empowerment,5,21162,10411,Zephyr1,Nikhil Kumar,U-0856,DAYANANDA SAGAR UNIVERSITY,Bengaluru Urban,Karnataka,SELECTED
+SIH1579,Ministry of Social Justice and Empowerment,1,17911,14295,NIET – Pulse Shifters,Sinthanaiselvan. G,C-37025,Nehru Institute of Engineering and Technology,Coimbatore,Tamil Nadu,SELECTED
+SIH1579,Ministry of Social Justice and Empowerment,2,31382,12653,CODE LEGIONS,Selvapanchu S,C-37064,Sri Krishna College of Technology,Coimbatore,Tamil Nadu,SELECTED
+SIH1579,Ministry of Social Justice and Empowerment,3,8351,16855,Myo minds,Pericherla Sai Karthik Varma,C-18099,"Vishnu Institute of Technology, Vishnupur, Bhimavaram, PIN-534202CC-PA)",West Godavari,Andhra Pradesh,SELECTED
+SIH1579,Ministry of Social Justice and Empowerment,4,15886,26533,Roots and Relics,Priyanshu Rana,U-0457,Indian Maritime University,Chennai,Tamil Nadu,SELECTED
+SIH1579,Ministry of Social Justice and Empowerment,5,20311,32826,TECH IQ,Nagarajan S,U-0470,"Periyar University, Salem",Salem,Tamil Nadu,SELECTED
+SIH1579,Ministry of Social Justice and Empowerment,6,29822,15385,machine_mavericks,Lakshay Madaan,C-10575,Panipat Institute of Engg. & Technology,Panipat,Haryana,SELECTED
+SIH1580,Ministry of Social Justice and Empowerment,1,2861,4508,TECHIE TACOS,Harsha Vardhini S V,1-3662200961,"SRM Institute of Science & Technology, Vadapalani",Chennai,Tamil Nadu,SELECTED
+SIH1580,Ministry of Social Justice and Empowerment,2,39187,24777,Team Pioneers,Surendar S,C-16461,"University College of Engineering, Kancheepuram",Kanchipuram,Tamil Nadu,SELECTED
+SIH1580,Ministry of Social Justice and Empowerment,3,38534,17969,Innovate'X,Kunal Dhar,C-10342,"Chandigarh Engg College, Landran",S.A.S Nagar,Punjab,SELECTED
+SIH1580,Ministry of Social Justice and Empowerment,4,37419,14205,DynamicSJEC,Rynor Gawain Pinto,C-1277,ST JOSEPH ENGINEERING COLLEGE,Dakshin Kannad,Karnataka,SELECTED
+SIH1580,Ministry of Social Justice and Empowerment,5,46413,14130,IGNITE 24,Suprija Devi S,C-37064,Sri Krishna College of Technology,Coimbatore,Tamil Nadu,SELECTED
+SIH1715,Ministry of Social Justice and Empowerment,1,43538,13420,GenX H4CK3RS!,Jayadithya G,U-1153,SHIV NADAR UNIVERSITY,CHENGALPATTU,Tamil Nadu,SELECTED
+SIH1715,Ministry of Social Justice and Empowerment,2,37215,33741,_ByteBusters_,Gaurav Masand,C-42227,"Dr. D.Y. Patil Vidya Pratishthan Society's Dr. D. Y. Patil Institute of Technology, Pimpri, Pune 411018",Pune,Maharashtra,SELECTED
+SIH1715,Ministry of Social Justice and Empowerment,3,55076,24392,i-Vision,Harshit Singh,C-35417,"Bharati Vidyapeeth Deemed to be University) College of Engineering, Pune",Pune,Maharashtra,SELECTED
+SIH1715,Ministry of Social Justice and Empowerment,4,49121,11987,Sign Wave,Shreyan Naskar,C-6202,Heritage Institute of Technology 126,24 Paraganas North,West Bengal,SELECTED
+SIH1715,Ministry of Social Justice and Empowerment,5,42211,37414,Sankrithi,Adithya Ananth,U-0844,"Indian Institute of Technology, Tirupati",Chittoor,Andhra Pradesh,SELECTED
+SIH1717,Ministry of Social Justice and Empowerment,1,41222,43770,Voice Bridge,Nithish Sriram Tt,U-0934,"SRM University-AP, Amaravati",Guntur,Andhra Pradesh,SELECTED
+SIH1717,Ministry of Social Justice and Empowerment,2,50661,43001,SKY DRUVS,Raj Kumar Mishra,C-46146,"NITRA TECHNICAL CAMPUS, GHAZIABAD",Ghaziabad,Uttar Pradesh,SELECTED
+SIH1717,Ministry of Social Justice and Empowerment,3,40726,13075,TeamAlpha,Sampada Deshmukh,S-16701,2224-MARATHWADA INSTITUTE OF TECHNOLOGY AURANGABAD,Aurangabad,Maharashtra,SELECTED
+SIH1717,Ministry of Social Justice and Empowerment,4,47099,17855,Cyklones,Larwin J,C-36995,Sri Krishna College of Engineering and Technology,Coimbatore,Tamil Nadu,SELECTED
+SIH1717,Ministry of Social Justice and Empowerment,5,47656,18357,Innov8Tech8,Kamsanpally Meghana,C-19667,VNR Vignanajyothi Institute of Engineering & Technology,Hyderabad,Telangana,SELECTED
+SIH1717,Ministry of Social Justice and Empowerment,6,48469,8892,Devclusters,Mohit Patil,C-36010,"Institute of Engineering & Science, IPS Academy, Rajendra Nagar, A.B. Road, Sita Building, Indore 452003",Indore,Madhya Pradesh,SELECTED
+SIH1721,Ministry of Youth Affairs & Sports,1,41187,13699,Bit_REBEL$,Mit Nitin Jain,C-50450,"A P SHAH INSTITUTE OF TECHNOLOGY, KASARVADAVALI",Thane,Maharashtra,SELECTED
+SIH1721,Ministry of Youth Affairs & Sports,2,35546,23240,ParseInt,Priya Shivsakal Chaurasiya,C-18886,"Shri Ramdeobaba College of Engineering and Management, Nagpur",Nagpur,Maharashtra,SELECTED
+SIH1721,Ministry of Youth Affairs & Sports,3,54990,22589,Techie Hawks,Tirumalla Vallika Sai Sree,C-67295,GOKARAJU LAILAVATHI WOMENS ENGINEERING COLLEGE,MEDCHAL MALKAJGIRI,Telangana,SELECTED
+SIH1721,Ministry of Youth Affairs & Sports,4,34841,15572,EXCEPTIONALS,Ritika Singh,C-28457,"Dronacharya College of Engg. Farukh Nagar, Gurgaon",Gurugram,Haryana,SELECTED
+SIH1721,Ministry of Youth Affairs & Sports,5,55116,38206,code_blooded_,Amishi Anand,U-0685,INDIRA GANDHI DELHI TECHNICAL UNIVERSITY FOR WOMEN,Central,Delhi,SELECTED
